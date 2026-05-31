@@ -214,33 +214,36 @@ Prepare derived values for UI explanations:
 
 Use:
 
-Logistic Regression
-Random Forest
-XGBoost / LightGBM (if available in your environment)
+- Logistic Regression
+- Random Forest
+- XGBoost / LightGBM (if available in your environment)
 
-Model 2 — Goals model
+## Model 2 — Goals model
+
 Predict:
 
-expected home goals
-expected away goals
+- expected home goals
+- expected away goals
 
 Use:
 
-Poisson regression
-Gradient boosting regression
+- Poisson regression
+- Gradient boosting regression
 
-Model 3 — Confidence calibration
+## Model 3 — Confidence calibration
+
 After modelling, calibrate probabilities:
 
-isotonic calibration
-Platt scaling
+- isotonic calibration
+- Platt scaling
 
-Model 4 — Performance tracker
+## Model 4 — Performance tracker
+
 A scoring layer that compares:
 
-model probability
-actual result
-historical user behaviour
+- model probability
+- actual result
+- historical user behaviour
 
 ## Evaluation metrics
 
