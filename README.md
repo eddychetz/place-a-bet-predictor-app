@@ -26,6 +26,7 @@ A Streamlit-based AI application for:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 ## Setup
 
