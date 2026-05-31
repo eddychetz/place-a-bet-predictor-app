@@ -1,15 +1,31 @@
-# Place-a-Bet Predictor App
+# ⚽ Place-a-Bet Predictor App
 
-- A Streamlit-based football forecasting and personal history analysis application.
+A Streamlit-based AI application for:
 
-## Features
+- Football match forecasting
+- Betting history analysis
+- Feature engineering + machine learning
 
-- Upload personal history CSV
-- Load football matches from football-data.org
-- Clean and standardise match data
-- Build simple rolling performance features
-- Train a baseline classifier
-- Generate forecasts and review evaluation results
+## 🚀 Features
+
+- Upload betting history CSV
+- Generate sample data
+- Build match features
+- Train ML model
+- Predict match outcomes
+
+## 🧪 Tech Stack
+
+- Python
+- Streamlit
+- Pandas / Scikit-learn
+- APIs (football-data, Understat)
+
+## ▶️ Run locally
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
 
 ## Setup
 
