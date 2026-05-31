@@ -43,27 +43,6 @@ st.title("📤 Upload History")
 
 uploaded_file = st.file_uploader("Upload your history CSV", type=["csv"])
 
-
-st.title("📤 Upload History")
-
-# -----------------------------
-# CSV Upload
-# -----------------------------
-uploaded_file = st.file_uploader("Upload your history CSV", type=["csv"])
-
-if uploaded_file is not None:
-    df = load_uploaded_csv(uploaded_file)
-    df = clean_history(df)
-
-    missing = check_required_columns(df, HISTORY_REQUIRED_COLUMNS)
-
-    if missing:
-        st.error(f"Missing required columns: {missing}")
-    else:
-        st.session_state.history_df = df
-        st.success("History uploaded and validated successfully.")
-        st.dataframe(df.head(20), use_container_width=True)
-
 # -----------------------------
 # ✅ ADD THIS SECTION (sample generator)
 # -----------------------------

@@ -312,3 +312,26 @@ place-a-bet-predictor/
 ├── tests/
 ├── requirements.txt
 └── README.md
+
+---
+
+### 🚀 OPTIONAL — Deploy your Streamlit app
+
+Once it's on GitHub:
+
+👉 Use Streamlit Cloud
+
+- Connect [GitHub]() account
+- Select repo + branch
+- Click **Deploy** 【2-a90bb6】
+
+---
+
+## Best workflow going forward
+
+Every time you update your code:
+
+```bash
+git add .
+git commit -m "Added OCR feature"
+git push
