@@ -1,0 +1,38 @@
+# App / interface
+streamlit
+plotly
+altair
+
+# Data
+pandas
+numpy
+pyarrow
+python-dotenv
+
+# Modelling
+
+scikit-learn
+xgboost
+lightgbm
+statsmodels
+joblib
+
+# Explainability
+shap
+eli5
+
+# Validation
+pandera
+pydantic
+
+# Automation / scraping
+playwright
+selenium
+
+# Testing
+pytest
+
+# OCR from bet-slip
+pytesseract
+easyocr
+opencv-python

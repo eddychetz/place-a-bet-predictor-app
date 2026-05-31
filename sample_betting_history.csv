@@ -1,0 +1,101 @@
+date,league,home_team,away_team,selection,odds,stake,result
+2026-01-01,LaLiga,Sevilla,Real Madrid,Sevilla,3.41,124,loss
+2026-01-02,LaLiga,Barcelona,Valencia,Barcelona,3.41,143,win
+2026-01-03,EPL,Liverpool,Man City,Man City,2.16,174,loss
+2026-01-04,Bundesliga,Dortmund,Bayern,Bayern,1.58,147,loss
+2026-01-05,EPL,Liverpool,Man City,Liverpool,1.41,151,loss
+2026-01-06,EPL,Arsenal,Spurs,Arsenal,2.27,119,loss
+2026-01-07,SerieA,Juventus,Inter,Juventus,2.91,64,loss
+2026-01-08,EPL,Spurs,Chelsea,Chelsea,1.91,124,loss
+2026-01-09,SerieA,Juventus,Napoli,Juventus,2.07,56,loss
+2026-01-10,EPL,Liverpool,Arsenal,Arsenal,2.14,144,loss
+2026-01-11,Bundesliga,Leverkusen,Bayern,Bayern,1.78,90,win
+2026-01-12,Bundesliga,Leverkusen,Dortmund,Dortmund,2.16,145,win
+2026-01-13,SerieA,Napoli,Inter,Inter,2.98,45,win
+2026-01-14,Bundesliga,Bayern,Dortmund,Bayern,3.38,127,loss
+2026-01-15,SerieA,AC Milan,Napoli,Napoli,1.3,132,win
+2026-01-16,SerieA,Juventus,AC Milan,Juventus,2.59,74,loss
+2026-01-17,LaLiga,Valencia,Sevilla,Sevilla,1.75,156,loss
+2026-01-18,LaLiga,Sevilla,Barcelona,Barcelona,2.35,196,loss
+2026-01-19,SerieA,Juventus,Inter,Juventus,1.65,41,win
+2026-01-20,EPL,Liverpool,Spurs,Spurs,2.44,91,win
+2026-01-21,EPL,Spurs,Arsenal,Arsenal,3.12,187,loss
+2026-01-22,LaLiga,Real Madrid,Valencia,Real Madrid,3.03,147,loss
+2026-01-23,LaLiga,Valencia,Barcelona,Valencia,3.2,197,loss
+2026-01-24,Bundesliga,Leverkusen,Dortmund,Leverkusen,2.86,156,win
+2026-01-25,Bundesliga,Bayern,Leverkusen,Bayern,3.15,27,loss
+2026-01-26,EPL,Spurs,Man City,Spurs,3.41,73,loss
+2026-01-27,Bundesliga,Leipzig,Dortmund,Dortmund,2.81,119,loss
+2026-01-28,Bundesliga,Leverkusen,Dortmund,Leverkusen,3.45,54,loss
+2026-01-29,SerieA,Inter,Napoli,Napoli,2.42,165,win
+2026-01-30,SerieA,AC Milan,Juventus,AC Milan,3.07,169,loss
+2026-01-31,SerieA,Napoli,Inter,Inter,2.61,126,win
+2026-02-01,EPL,Arsenal,Liverpool,Liverpool,1.7,26,win
+2026-02-02,Bundesliga,Leverkusen,Bayern,Leverkusen,3.22,39,win
+2026-02-03,EPL,Liverpool,Man City,Man City,1.76,91,win
+2026-02-04,Bundesliga,Leverkusen,Bayern,Bayern,3.18,49,loss
+2026-02-05,SerieA,AC Milan,Inter,AC Milan,2.9,19,win
+2026-02-06,LaLiga,Sevilla,Real Madrid,Sevilla,1.98,130,loss
+2026-02-07,EPL,Arsenal,Spurs,Arsenal,3.3,187,win
+2026-02-08,LaLiga,Valencia,Sevilla,Sevilla,2.91,23,loss
+2026-02-09,LaLiga,Barcelona,Sevilla,Barcelona,1.56,97,loss
+2026-02-10,LaLiga,Sevilla,Valencia,Valencia,1.77,90,win
+2026-02-11,Bundesliga,Leipzig,Dortmund,Dortmund,1.56,17,win
+2026-02-12,EPL,Man City,Chelsea,Chelsea,2.59,87,win
+2026-02-13,SerieA,AC Milan,Juventus,Juventus,3.31,111,loss
+2026-02-14,EPL,Chelsea,Spurs,Spurs,2.33,159,loss
+2026-02-15,LaLiga,Real Madrid,Sevilla,Real Madrid,3.31,164,loss
+2026-02-16,SerieA,AC Milan,Juventus,AC Milan,1.41,185,win
+2026-02-17,LaLiga,Barcelona,Real Madrid,Real Madrid,2.75,167,loss
+2026-02-18,Bundesliga,Dortmund,Bayern,Bayern,1.64,145,win
+2026-02-19,EPL,Man City,Arsenal,Arsenal,1.76,126,win
+2026-02-20,LaLiga,Barcelona,Sevilla,Sevilla,3.3,76,loss
+2026-02-21,SerieA,Inter,Napoli,Napoli,2.04,144,win
+2026-02-22,LaLiga,Sevilla,Real Madrid,Sevilla,2.29,143,win
+2026-02-23,Bundesliga,Dortmund,Leipzig,Dortmund,1.82,157,win
+2026-02-24,EPL,Man City,Liverpool,Liverpool,2.96,13,loss
+2026-02-25,SerieA,Juventus,Napoli,Juventus,2.22,11,loss
+2026-02-26,Bundesliga,Bayern,Leverkusen,Bayern,2.23,93,loss
+2026-02-27,Bundesliga,Bayern,Leipzig,Leipzig,3.0,131,win
+2026-02-28,LaLiga,Valencia,Real Madrid,Real Madrid,2.01,103,loss
+2026-03-01,EPL,Man City,Liverpool,Man City,1.78,18,win
+2026-03-02,Bundesliga,Leipzig,Dortmund,Dortmund,3.35,85,loss
+2026-03-03,SerieA,Napoli,Inter,Napoli,3.09,138,loss
+2026-03-04,SerieA,AC Milan,Napoli,AC Milan,1.76,149,win
+2026-03-05,SerieA,Inter,Napoli,Napoli,2.12,195,win
+2026-03-06,Bundesliga,Leverkusen,Leipzig,Leverkusen,3.16,64,loss
+2026-03-07,EPL,Chelsea,Liverpool,Chelsea,2.49,164,loss
+2026-03-08,Bundesliga,Dortmund,Leverkusen,Dortmund,3.18,146,win
+2026-03-09,SerieA,Juventus,Inter,Inter,2.23,31,loss
+2026-03-10,LaLiga,Real Madrid,Sevilla,Sevilla,3.47,159,loss
+2026-03-11,SerieA,Napoli,AC Milan,Napoli,3.41,38,loss
+2026-03-12,SerieA,Inter,Napoli,Napoli,2.22,137,win
+2026-03-13,EPL,Liverpool,Chelsea,Liverpool,3.21,79,loss
+2026-03-14,SerieA,Juventus,AC Milan,AC Milan,3.1,167,loss
+2026-03-15,EPL,Man City,Chelsea,Chelsea,1.31,47,win
+2026-03-16,EPL,Man City,Spurs,Man City,2.66,110,win
+2026-03-17,EPL,Spurs,Man City,Man City,2.59,200,win
+2026-03-18,Bundesliga,Leverkusen,Leipzig,Leverkusen,3.27,29,win
+2026-03-19,Bundesliga,Dortmund,Leverkusen,Leverkusen,3.19,184,loss
+2026-03-20,EPL,Man City,Spurs,Man City,1.46,132,win
+2026-03-21,LaLiga,Sevilla,Valencia,Sevilla,3.48,70,loss
+2026-03-22,EPL,Spurs,Man City,Man City,2.15,10,loss
+2026-03-23,SerieA,Juventus,Napoli,Napoli,3.39,86,loss
+2026-03-24,SerieA,Juventus,Inter,Juventus,1.94,10,win
+2026-03-25,SerieA,Napoli,AC Milan,AC Milan,2.4,96,loss
+2026-03-26,Bundesliga,Dortmund,Leverkusen,Dortmund,1.61,149,loss
+2026-03-27,LaLiga,Real Madrid,Valencia,Real Madrid,2.04,159,loss
+2026-03-28,LaLiga,Real Madrid,Barcelona,Real Madrid,2.4,179,win
+2026-03-29,SerieA,Napoli,AC Milan,AC Milan,1.47,50,win
+2026-03-30,Bundesliga,Bayern,Dortmund,Bayern,3.46,97,win
+2026-03-31,EPL,Man City,Liverpool,Man City,2.57,43,loss
+2026-04-01,EPL,Liverpool,Man City,Liverpool,3.14,76,win
+2026-04-02,SerieA,Juventus,Napoli,Juventus,2.87,151,win
+2026-04-03,LaLiga,Barcelona,Valencia,Valencia,2.47,175,loss
+2026-04-04,Bundesliga,Dortmund,Bayern,Dortmund,2.74,86,loss
+2026-04-05,Bundesliga,Bayern,Dortmund,Bayern,1.58,190,loss
+2026-04-06,EPL,Arsenal,Liverpool,Arsenal,2.04,156,loss
+2026-04-07,EPL,Chelsea,Spurs,Spurs,3.21,41,loss
+2026-04-08,EPL,Spurs,Arsenal,Spurs,2.1,159,loss
+2026-04-09,LaLiga,Sevilla,Valencia,Sevilla,2.86,94,win
+2026-04-10,SerieA,AC Milan,Inter,AC Milan,3.02,38,loss

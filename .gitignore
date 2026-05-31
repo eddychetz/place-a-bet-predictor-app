@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.streamlit/
+data/raw/*
+data/processed/*
+data/features/*
+data/exports/*
+models/*.pkl
+models/*.joblib
